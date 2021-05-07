@@ -1,5 +1,4 @@
-using DataFrames
-using CSV
+# day 1: list number sums
 
 function n_number_sum(n::Int, sum::Int, vec::Vector)
     if n == 1
